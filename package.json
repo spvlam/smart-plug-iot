@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-red-contrib-aedes": "^0.13.2",
+    "node-red-dashboard": "^3.6.5",
+    "node-red-node-mysql": "^2.0.0"
+  }
+}
